@@ -33,6 +33,7 @@ I'm a network-focused IT professional with an MSP/networking background, current
 
 ## Background
 
-- ~3 years MSP experience
-- CCNA
+- 3 years MSP experience
+- CCNA, Net+
+- BSIT
 - interested in NetOps / NOC / network support / network admin roles
