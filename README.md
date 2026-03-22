@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Zach
 
-<!--
-**zachstdenis/zachstdenis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT professional with an MSP/networking background, currently building a homelab focused on practical systems, networking, and self-hosting.
 
-Here are some ideas to get you started:
+## Current homelab focus
+- OPNsense firewall and routing
+- OpenVPN / remote access
+- Docker / YAMS / Jellyfin stack
+- AdGuard Home + Unbound DNS
+- Home Assistant
+- NAS / Linux server administration
+- UPS / NUT shutdown behavior and recovery testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured repositories
+- [homelab-docs](https://github.com/[YOUR-USERNAME]/homelab-docs) - overview, topology, services, incidents, roadmap
+- [runbooks](https://github.com/[YOUR-USERNAME]/runbooks) - recovery steps and maintenance procedures
+- [docker-services](https://github.com/[YOUR-USERNAME]/docker-services) - sanitized service configs and notes
+
+## What I'm working on now
+- improving VPN client internet access and reliability
+- documenting outage recovery findings
+- cleaning up legacy network mappings
+- building clearer runbooks and diagrams
+
+## Background
+- ~3 years MSP experience
+- CCNA
+- Interested in NetOps / NOC / network support / junior network admin roles
