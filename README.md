@@ -21,7 +21,6 @@ I'm a network-focused IT professional with an MSP/networking background, current
 
 - [2.5GbE Upgrade, 5.x LAN Migration, and OpenVPN Fix](https://github.com/zachstdenis/homelab-docs/blob/main/docs/2-5gbe-upgrade-5x-lan-migration-and-openvpn-fix.md)
 - [Tailscale Remote Access and ACL Design](https://github.com/zachstdenis/homelab-docs/blob/main/docs/tailscale-remote-access-and-acl-design.md)
-- [UPS / Power Outage Recovery Test](https://github.com/zachstdenis/homelab-docs/blob/main/docs/power-outage-test.md)
 - [Remote LUKS Unlock, Tailscale Hardening, and NAS/Server Reliability](https://github.com/zachstdenis/homelab-docs/blob/main/docs/remote-unlock-tailscale-hardening-and-reliability.md)
 - [Gluetun / Mullvad Migration: OpenVPN to WireGuard](https://github.com/zachstdenis/homelab-docs/blob/main/docs/gluetun-mullvad-wireguard-migration.md)
 
