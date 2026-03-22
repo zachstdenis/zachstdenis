@@ -1,28 +1,38 @@
 # Hi, I'm Zach
 
-I'm an IT professional with an MSP/networking background, currently building a homelab focused on practical systems, networking, and self-hosting.
+I'm a network-focused IT professional with an MSP/networking background, currently building and documenting a homelab focused on practical networking, Linux administration, self-hosting, and operational reliability.
 
 ## Current homelab focus
-- OPNsense firewall and routing
-- OpenVPN / remote access
-- Docker / YAMS / Jellyfin stack
-- AdGuard Home + Unbound DNS
-- Home Assistant
-- NAS / Linux server administration
-- UPS / NUT shutdown behavior and recovery testing
 
-## Featured repositories
-- [homelab-docs](https://github.com/[YOUR-USERNAME]/homelab-docs) - overview, topology, services, incidents, roadmap
-- [runbooks](https://github.com/[YOUR-USERNAME]/runbooks) - recovery steps and maintenance procedures
-- [docker-services](https://github.com/[YOUR-USERNAME]/docker-services) - sanitized service configs and notes
+- OPNsense firewalling, routing, and VPN
+- OpenVPN and Tailscale remote access
+- AdGuard Home + Unbound DNS
+- Docker / YAMS / Jellyfin media stack
+- NAS and Linux server administration
+- UPS / NUT shutdown and outage recovery testing
+- 2.5 GbE network upgrades and service migration
+- clear documentation of incidents, recovery steps, and design decisions
+
+## Featured repository
+
+- [homelab-docs](https://github.com/zachstdenis/homelab-docs) - architecture, services, incidents, recovery notes, and deployment writeups
+
+## Strong writeups
+
+- [2.5GbE Upgrade, 5.x LAN Migration, and OpenVPN Fix](https://github.com/zachstdenis/homelab-docs/blob/main/docs/2-5gbe-upgrade-5x-lan-migration-and-openvpn-fix.md)
+- [Tailscale Remote Access and ACL Design](https://github.com/zachstdenis/homelab-docs/blob/main/docs/tailscale-remote-access-and-acl-design.md)
+- [UPS / Power Outage Recovery Test](https://github.com/zachstdenis/homelab-docs/blob/main/docs/power-outage-test.md)
+- [Remote LUKS Unlock, Tailscale Hardening, and NAS/Server Reliability](https://github.com/zachstdenis/homelab-docs/blob/main/docs/remote-unlock-tailscale-hardening-and-reliability.md)
+- [Gluetun / Mullvad Migration: OpenVPN to WireGuard](https://github.com/zachstdenis/homelab-docs/blob/main/docs/gluetun-mullvad-wireguard-migration.md)
 
 ## What I'm working on now
-- improving VPN client internet access and reliability
-- documenting outage recovery findings
-- cleaning up legacy network mappings
-- building clearer runbooks and diagrams
+
+- improving SG preboot/dropbear remote unlock reliability
+- continuing NAS power-loss / boot behavior investigation
+- improving runbooks, topology, and public-facing documentation
 
 ## Background
+
 - ~3 years MSP experience
 - CCNA
-- Interested in NetOps / NOC / network support / junior network admin roles
+- interested in NetOps / NOC / network support / network admin roles
