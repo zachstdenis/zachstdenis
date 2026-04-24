@@ -19,10 +19,10 @@ I'm a network engineer with 3 years of IT experience, currently building and doc
 
 ## Strong writeups
 
-- [2.5GbE Upgrade, 5.x LAN Migration, and OpenVPN Fix](https://github.com/zachstdenis/homelab-docs/blob/main/docs/2-5gbe-upgrade-5x-lan-migration-and-openvpn-fix.md)
-- [Tailscale Remote Access and ACL Design](https://github.com/zachstdenis/homelab-docs/blob/main/docs/tailscale-remote-access-and-acl-design.md)
-- [Remote LUKS Unlock, Tailscale Hardening, and NAS/Server Reliability](https://github.com/zachstdenis/homelab-docs/blob/main/docs/remote-unlock-tailscale-hardening-and-reliability.md)
-- [Gluetun / Mullvad Migration: OpenVPN to WireGuard](https://github.com/zachstdenis/homelab-docs/blob/main/docs/gluetun-mullvad-wireguard-migration.md)
+- [Tailscale Remote Access and ACL Design](docs/deployments/tailscale-remote-access-and-acl-design.md)
+- [Remote LUKS Unlock, Tailscale Hardening, and NAS/Server Reliability](docs/incidents/remote-unlock-tailscale-hardening-and-reliability.md)
+- [Gluetun / Mullvad Migration: OpenVPN to WireGuard](docs/incidents/gluetun-mullvad-wireguard-migration.md)
+- [2.5GbE Upgrade, 5.x LAN Migration, and OpenVPN Fix](docs/incidents/2-5gbe-upgrade-5x-lan-migration-and-openvpn-fix.md)
 
 ## What I'm working on now
 
