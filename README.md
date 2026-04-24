@@ -2,6 +2,14 @@
 
 I'm a network engineer with 3 years of IT experience, currently building and documenting a homelab focused on practical networking, Linux administration, self-hosting, and operational reliability.
 
+- CCNA, Net+, BSIT
+
+## The lab
+
+<p align="center">
+  <img src="https://github.com/enyeneer/homelab-docs/blob/main/images/homelab-closet-overview.webp?raw=true" alt="Homelab closet setup" width="400">
+</p>
+
 ## Current homelab focus
 
 - OPNsense firewalling, routing, and VPN
@@ -29,13 +37,3 @@ I'm a network engineer with 3 years of IT experience, currently building and doc
 - improving SG preboot/dropbear remote unlock reliability
 - continuing NAS power-loss / boot behavior investigation
 - improving runbooks, topology, and public-facing documentation
-
-## Background
-
-- 3 years IT experience
-- CCNA, Net+, BSIT
-
-
-<p align="center">
-  <img src="https://github.com/enyeneer/homelab-docs/blob/main/images/homelab-closet-overview.webp?raw=true" alt="Homelab closet setup" width="400">
-</p>
