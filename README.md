@@ -35,4 +35,7 @@ I'm a network engineer with 3 years of IT experience, currently building and doc
 - 3 years IT experience
 - CCNA, Net+, BSIT
 
-<img src="https://github.com/enyeneer/homelab-docs/blob/main/images/homelab-closet-overview.webp?raw=true" alt="Homelab closet setup" width="400">
+
+<p align="center">
+  <img src="https://github.com/enyeneer/homelab-docs/blob/main/images/homelab-closet-overview.webp?raw=true" alt="Homelab closet setup" width="400">
+</p>
