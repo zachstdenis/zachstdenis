@@ -32,6 +32,5 @@ I'm a network engineer with 3 years of IT experience, currently building and doc
 
 ## Background
 
-- 3 years MSP experience
+- 3 years IT experience
 - CCNA, Net+, BSIT
-- interested in NetOps / NOC / network support / network admin roles
