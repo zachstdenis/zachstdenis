@@ -1,6 +1,6 @@
 # Hi, I'm Zach
 
-I'm a network-focused IT professional with an MSP/networking background, currently building and documenting a homelab focused on practical networking, Linux administration, self-hosting, and operational reliability.
+I'm a network engineer with 3 years of IT experience, currently building and documenting a homelab focused on practical networking, Linux administration, self-hosting, and operational reliability.
 
 ## Current homelab focus
 
