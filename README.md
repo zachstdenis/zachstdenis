@@ -1,8 +1,6 @@
 # Hi, I'm Zach
 
-I'm a network engineer with 3 years of IT experience, currently building and documenting a homelab focused on practical networking, Linux administration, self-hosting, and operational reliability.
-
-- CCNA, Net+, BSIT
+I'm a network engineer with 3 years of IT experience (CCNA, Net+, BSIT), currently building and documenting a homelab focused on practical networking, Linux administration, self-hosting, and operational reliability.
 
 ## The lab
 
