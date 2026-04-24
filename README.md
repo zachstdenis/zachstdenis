@@ -15,11 +15,11 @@ I'm a network engineer with 3 years of IT experience, currently building and doc
 
 ## Featured repository
 
-- [homelab-docs](https://github.com/zachstdenis/homelab-docs) - architecture, services, incidents, recovery notes, and deployment writeups
+- [homelab-docs](https://github.com/enyeneer/homelab-docs) - architecture, services, incidents, recovery notes, and deployment writeups
 
 ## Strong writeups
 
-- [Tailscale Remote Access and ACL Design](docs/deployments/tailscale-remote-access-and-acl-design.md)
+- [Tailscale Remote Access and ACL Design](/docs/deployments/tailscale-remote-access-and-acl-design.md)
 - [Remote LUKS Unlock, Tailscale Hardening, and NAS/Server Reliability](docs/incidents/remote-unlock-tailscale-hardening-and-reliability.md)
 - [Gluetun / Mullvad Migration: OpenVPN to WireGuard](docs/incidents/gluetun-mullvad-wireguard-migration.md)
 - [2.5GbE Upgrade, 5.x LAN Migration, and OpenVPN Fix](docs/incidents/2-5gbe-upgrade-5x-lan-migration-and-openvpn-fix.md)
