@@ -37,4 +37,4 @@ I'm a network engineer with 3 years of IT experience, currently building and doc
 
 ##
 
-![Homelab closet setup](https://github.com/enyeneer/homelab-docs/blob/main/images/homelab-closet-overview.jpg?raw=true)
+![Homelab closet setup](https://github.com/enyeneer/homelab-docs/blob/main/images/homelab-closet-overview.webp?raw=true)
